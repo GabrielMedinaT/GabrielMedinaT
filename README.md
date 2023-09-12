@@ -15,7 +15,7 @@
     width="150px"
     height="100px" />
   <img
-    src="https://proximahost.es/blog/wp-content/uploads/2022/12/Node.JS-1.jpg"
+    src="https://proximahost.es/blog/wp-content/uploads/2022/12/Node.JS-1.jpg](https://www.muylinux.com/wp-content/uploads/2022/04/nodejs.png)https://www.muylinux.com/wp-content/uploads/2022/04/nodejs.png"
     alt=""
     width="150px"
     height="100px" />
