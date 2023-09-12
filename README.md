@@ -15,7 +15,7 @@
     width="150px"
     height="100px" />
   <img
-    src="https://www.muylinux.com/wp-content/uploads/2022/04/nodejs.png"
+    src="https://miro.medium.com/v2/resize:fit:1200/1*m5RYM_Wkj4LsZewpigV5tg.jpeg"
     alt=""
     width="150px"
     height="100px" />
